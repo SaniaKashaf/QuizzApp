@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "291518865593",
+    "firebase_url": "https://demoproject-1cd1d-default-rtdb.firebaseio.com",
+    "project_id": "demoproject-1cd1d",
+    "storage_bucket": "demoproject-1cd1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291518865593:android:81aa996889d34ffeefbb68",
+        "android_client_info": {
+          "package_name": "com.example.fierbaseprojectpractice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "291518865593-acn66g6f9kh5s7qeiphum8gtmbco2ebe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWJrDf6dgXoXlkHm7pNnSVuvnVE6Qx2kM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "291518865593-acn66g6f9kh5s7qeiphum8gtmbco2ebe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291518865593:android:eb30359a9d170724efbb68",
+        "android_client_info": {
+          "package_name": "com.example.quizapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "291518865593-acn66g6f9kh5s7qeiphum8gtmbco2ebe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWJrDf6dgXoXlkHm7pNnSVuvnVE6Qx2kM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "291518865593-acn66g6f9kh5s7qeiphum8gtmbco2ebe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291518865593:android:730344d2cbe105cfefbb68",
+        "android_client_info": {
+          "package_name": "com.example.spinnerdatafiresrore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "291518865593-acn66g6f9kh5s7qeiphum8gtmbco2ebe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWJrDf6dgXoXlkHm7pNnSVuvnVE6Qx2kM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "291518865593-acn66g6f9kh5s7qeiphum8gtmbco2ebe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
